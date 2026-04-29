@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View app : [https://google-ai-9ifb97cgw-pandanodes-projects.vercel.app](https://google-ai-9ifb97cgw-pandanodes-projects.vercel.app/)
+View app : [[https://google-ai-9ifb97cgw-pandanodes-projects.vercel.app](https://google-ai-9ifb97cgw-pandanodes-projects.vercel.app/)](https://google-ai-app-w24u.vercel.app/)
 
 ## Run Locally
 
