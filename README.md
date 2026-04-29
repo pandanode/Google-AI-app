@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: [https://ai.studio/apps/a934fb77-0b2a-493a-a32c-0bd0c7aa7f06](https://aistudio.google.com/apps/7a856654-86e0-432e-ad49-6ab8faae4c3f?source=start&showAssistant=true&showPreview=true&project=gen-lang-client-0965988119&fullscreenApplet=true)
+View app : [https://google-ai-9ifb97cgw-pandanodes-projects.vercel.app](https://google-ai-9ifb97cgw-pandanodes-projects.vercel.app/)
 
 ## Run Locally
 
